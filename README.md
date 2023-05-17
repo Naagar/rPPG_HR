@@ -1,4 +1,4 @@
-# Heartbeat: Measuring heart rate using remote photoplethysmography (rPPG)
+# Updated---  Heartbeat: Measuring heart rate using remote photoplethysmography (rPPG)
 
 This is a simple implementation of rPPG, a way to measure heart rate without skin contact. It uses a video recording or live feed of the face to analyse subtle changes in skin color.
 
@@ -24,7 +24,7 @@ See also my minimal [JavaScript implementation](https://github.com/prouast/heart
 
 The following libraries are required to run Heartbeat:
 
-* [OpenCV]
+* [OpenCV4]
 
 They must be installed on the system such that headers and libraries are found on the compiler's standard search path.
 
